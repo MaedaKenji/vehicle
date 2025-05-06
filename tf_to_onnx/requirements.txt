@@ -1,0 +1,5 @@
+tensorflow>=2.8.0
+tf2onnx>=1.13.0
+onnxruntime>=1.13.0
+numpy>=1.19.5
+opencv-python>=4.5.5 
